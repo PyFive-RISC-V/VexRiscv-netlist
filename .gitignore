@@ -28,8 +28,6 @@ bin/
 .cache-main
 
 #User
-/*.vhd
-/*.v
 *.cf
 *.json
 *.vcd
